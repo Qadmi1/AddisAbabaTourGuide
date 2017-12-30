@@ -28,6 +28,14 @@ public class PagerAdapter extends FragmentPagerAdapter {
         if (position == 1) {
             return new LandMarks_Fragment();
         }
+        else if (position ==2)
+        {
+            return new RestaurantFragment();
+        }
+        else if (position ==3)
+        {
+            return new HistoricSitesFragment();
+        }
 
         else
         return new HomeFragment();
@@ -38,6 +46,23 @@ public class PagerAdapter extends FragmentPagerAdapter {
      */
     @Override
     public int getCount() {
-        return 2;
+        return 4;
     }
+
+    @Override
+    public CharSequence getPageTitle(int position) {
+        if (position == 1) {
+            return mContext.getString(R.string.landmarks);
+        }
+        else if (position ==2)
+        {
+            return mContext.getString(R.string.restaurants);
+        }
+        else if (position ==3)
+        {
+            return mContext.getString(R.string.historic);
+        }
+
+        else
+            return mContext.getString(R.string.home);    }
 }

@@ -3,16 +3,16 @@
 
     <string name="home">Home</string>
 
+    <!-- The list of places in the App -->
     <string name="addis_ababa">Addis Ababa</string>
 
-    <string name="landmarks">Land Marks</string>
+    <string name="landmarks">Land Mark</string>
 
-    <string name="restaurants">Restaurants</string>
+    <string name="restaurants">Restaurant</string>
 
-    <string name="historic">Historic Sites</string>
+    <string name="historic">Historic Site</string>
 
-    <string name="events">Events</string>
-
+    <!-- The list of LandMarks in the App -->
     <string name="menelik">The Mausoleum of Menelik II</string>
 
     <string name="meskel">Meskel Square</string>
@@ -23,6 +23,7 @@
 
     <string name="twedros">Tewodros Square</string>
 
+    <!-- The list of LandMarks descriptions in the App -->
     <string name="menelik_disc">The Mausoleum of Emperor Menelik Ii is located in Addis Ababa.
         The palace, erected in the 18th century, houses the tombs of Menelik II and most of
         Ethiopia is royal family, plus their prized possessions. Explore the Mausoleum of Menelik
@@ -51,9 +52,82 @@
         Addis Ababa fell to Italy in the March of the Iron Will and the day when Emperor Haile
         Selassie triumphantly returned to the city after its liberation.</string>
 
+    <!-- The description for the home page -->
     <string name="addis_disc">Addis Ababa (Amharic: አዲስ አበባ, Addis Abäba IPA: [adˈdis ˈabəba],
         "new flower"; or Addis Abeba (the spelling used by the official Ethiopian Mapping Authority);
         Odia: Finfinnee, "natural spring"), is the capital and largest city of Ethiopia. It is the
         seat of the Ethiopian federal government. According to the 2007 population census, the city
         has a total population of 2,739,551 inhabitants.</string>
+
+    <!-- The list of restaurants in the App -->
+    <string name="oda">Oda Cultural Restaurant and Cafe</string>
+
+    <string name="shiro">Tikus Shiro</string>
+
+    <string name="chane">Chane\'s Restaurant</string>
+
+    <string name="yod">Yod Abyssinia</string>
+
+    <string name="brundo">Brundo Butchery</string>
+
+    <!-- The list of Restaurants descriptions in the App -->
+    <string name="oda_desc">Inside the Oromo Cultural Center is the Oda Restaurant and Cafe, which
+        you might recognise from Anthony Bourdain’s Ethiopia visit on No Reservations. The Oromo are
+        one of the largest ethnic groups in eastern Africa, and the Center’s restaurant showcases
+        the best of Oromo culture.</string>
+
+    <string name="shiro_desc">In the busy neighbourhood around the Lideta condominiums, you\'ll find
+        a truly local sensation: a shiro bet (shiro house). You can guess Tikus Shiro\'s speciality
+        from the name: delicious shiro, a stew made of chickpea or bean flour, served with injera.</string>
+
+    <string name="chane_desc">In the heart of the Cazanches district near a stack of popular chain
+        hotels, delicious Ethiopian fare is served up in a centuries-old house once owned by a
+        military hero. The house preserves the 19th-century way of life with old artworks
+        and black-and-white photographs of royals and foreign dignitaries.</string>
+
+    <string name="yod_desc">Yod Abyssinia highlights all of the cultures and cuisines that Ethiopia
+        has to offer. A lot of effort has been put in to make the place look as authentic as possible.</string>
+
+    <string name="brundo_desc">Ethiopia is home to people of diverse ethnicities, and the mix of
+        their tastes and cultures has produced some amazing cuisine. Raw meat is one of most the
+        highly regarded Ethiopian dishes, and it’s usually reserved for special occasions.</string>
+
+    <!-- The list of historic sites in the App -->
+    <string name="palace">Menelik palace</string>
+    
+    <string name="trinity">Holy Trinity Cathedral</string>
+
+    <string name="lalibela">Lalibela</string>
+
+    <string name="melka">Melka Kunture</string>
+
+    <string name="medhane">Medhane Alem Cathedral</string>
+
+    <!-- The list of historic sites descriptions in the App -->
+    <string name="palace_desc">The Menelik Palace is a palatial compound in Addis Ababa, Ethiopia.
+        For years known as the Gebi,it was the seat of the power of Ethiopia\'s emperors. Within its
+        confines are several residences, halls, chapels, and working buildings. Today it contains
+        the offices and residence of the Prime Minister of Ethiopia.</string>
+
+    <string name="trinity_desc">Holy Trinity Cathedral, known in Amharic as Kidist Selassie, is the 
+        highest ranking Ethiopian Orthodox Tewahedo cathedral in Addis Ababa, Ethiopia. It was built 
+        to commemorate Ethiopia\'s liberation from Italian occupation and is the second most 
+        important place of worship in Ethiopia, after the Church of Our Lady Mary of Zion in Axum.</string>
+
+    <string name="lalibela_desc">Lalibela (Amharic: ላሊበላ) is a town in Amhara Region, northern
+        Ethiopia famous for monolithic rock-cut churches. The whole of Lalibela offers an exceptional
+        testimony to the medieval and post-medieval civilization of Ethiopia. Lalibela is one of
+        Ethiopia\'s holiest cities, second only to Aksum, and a center of pilgrimage.</string>
+
+    <string name="melka_desc">Melka Kuntureመልካ ቁንጥሬ is a Paleolithic site in the upper Awash
+        Valley, Ethiopia. It is located 50 kilometers south of Addis Ababa by road, across the Awash
+        River from the village of Melka Awash, with a latitude and longitude of 8°42′9″N 38°36′30″E.
+        Three waterfalls lie downstream of the bridge across the Awash here, which provides access
+        south to Butajira.</string>
+
+    <string name="medhane_desc">Medhane Alem Cathedral, whose name means “Saviour of the World”, is
+        an Ethiopian Orthodox Tewahedo cathedral in Bole Medhanealem, Addis Ababa, Ethiopia. It is
+        the second largest cathedral in the whole of Africa and the largest in Ethiopia.
+
+</string>
 </resources>

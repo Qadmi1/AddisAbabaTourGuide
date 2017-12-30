@@ -17,9 +17,7 @@ import java.util.ArrayList;
 
 public class LandMarks_Fragment extends Fragment {
 
-    public LandMarks_Fragment() {
-        // Required empty public constructor
-    }
+
 
     @Nullable
     @Override
@@ -43,6 +41,8 @@ public class LandMarks_Fragment extends Fragment {
         //Set the Adapter we created above to our ListView
         mainList.setAdapter(listAdapter);
 
+        // Change the title in the ActionBar
+        getActivity().setTitle(R.string.landmarks);
         return itemView;
     }
 }

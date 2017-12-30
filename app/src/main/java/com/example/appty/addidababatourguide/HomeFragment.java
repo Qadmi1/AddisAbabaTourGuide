@@ -16,7 +16,10 @@ public class HomeFragment extends Fragment {
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
+
         View itemView = inflater.inflate(R.layout.home_page, container, false);
+        // Change the title in the ActionBar
+        getActivity().setTitle(R.string.home);
 
         return itemView;
     }
