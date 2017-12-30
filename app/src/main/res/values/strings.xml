@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Addis_TourGuide</string>
+
+    <string name="home">Home</string>
+
+    <string name="addis_ababa">Addis Ababa</string>
+
+    <string name="landmarks">Land Marks</string>
+
+    <string name="restaurants">Restaurants</string>
+
+    <string name="historic">Historic Sites</string>
+
+    <string name="events">Events</string>
+
+    <string name="menelik">The Mausoleum of Menelik II</string>
+
+    <string name="meskel">Meskel Square</string>
+
+    <string name="menelik_square">Menelik II Square</string>
+
+    <string name="meyazia">Meyazia 27 Square Monument</string>
+
+    <string name="twedros">Tewodros Square</string>
+
+    <string name="menelik_disc">The Mausoleum of Emperor Menelik Ii is located in Addis Ababa.
+        The palace, erected in the 18th century, houses the tombs of Menelik II and most of
+        Ethiopia is royal family, plus their prized possessions. Explore the Mausoleum of Menelik
+        II and be a part of Ethiopia's history. After your tour at the base chambers, join
+        the locals in prayer upstairs</string>
+
+    <string name="meskel_disc">Meskel Square (often transliterated as Meskal or Mesqel) is a square
+        in the city of Addis Ababa, Ethiopia. It is often a site for public gathering or for
+        demonstrations and festivals, notably, the Meskel Festival from which it takes its name.</string>
+
+    <string name="menilik_square_disc">The majestic sculpture of a mounted Emperor Menelik II armed
+        with two spears, with the horse facing north towards Adwa, stands proudly in the Square.
+        The monument was erected by Emperor Haile Selassie and was dedicated a day before his
+        coronation in 1930. On the anniversary of the victory of the Battle of Adwa which occurred
+        on St. George’s Day (March 1), the Emperor would lay a wreath at the statue after attending
+        mass at St George Cathedral.</string>
+
+    <string name="twedros_disc">Sebastopol was the name of a large artillery mortar commissioned by
+        the Ethiopian emperor Tewodros II. The name was taken from the Crimean town Sevastopol, the
+        site of a battle during the Crimean War. The mortar weighed approximately 6.7 tons, and was
+        capable of firing off half-ton artillery rounds.</string>
+
+    <string name="meyazia_disc">Meyazia 27 Square, commonly known as Arat Kilo, is a square in
+        Addis Ababa. In its center is the eponymous monument, commemorating Ethiopia\'s liberation
+        from Fascist Italy. In the Ethiopian Calendar Meyazia 27 (May 5), is both the day when
+        Addis Ababa fell to Italy in the March of the Iron Will and the day when Emperor Haile
+        Selassie triumphantly returned to the city after its liberation.</string>
+
+    <string name="addis_disc">Addis Ababa (Amharic: አዲስ አበባ, Addis Abäba IPA: [adˈdis ˈabəba],
+        "new flower"; or Addis Abeba (the spelling used by the official Ethiopian Mapping Authority);
+        Odia: Finfinnee, "natural spring"), is the capital and largest city of Ethiopia. It is the
+        seat of the Ethiopian federal government. According to the 2007 population census, the city
+        has a total population of 2,739,551 inhabitants.</string>
+</resources>

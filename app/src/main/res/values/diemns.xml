@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="main_item_height">500dp</dimen>
+
+    <dimen name="image_detail_height">200dp</dimen>
+
+    <dimen name="padding_for_each_view">8dp</dimen>
+
+</resources>

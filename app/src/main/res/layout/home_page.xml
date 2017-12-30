@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        style="@style/title"
+        android:text="@string/addis_ababa"
+        android:layout_weight="1"/>
+
+    <ImageView
+       style="@style/detail_image"
+        android:layout_weight="7"
+        android:src="@drawable/img_5159"/>
+
+    <TextView
+      style="@style/disc"
+        android:text="@string/addis_disc"
+        android:layout_weight="5"/>
+
+</LinearLayout>
