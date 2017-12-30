@@ -36,4 +36,11 @@
         <item name="android:layout_margin">@dimen/padding_for_each_view</item>
     </style>
 
+    <!-- Style for the Tabs. -->
+    <style name="tab" parent="Widget.Design.TabLayout" >
+        <item name="tabIndicatorColor">@color/teal</item>
+        <item name="tabSelectedTextColor">@color/white</item>
+        <item name="tabBackground">@color/indigo</item>
+    </style>
+
 </resources>
