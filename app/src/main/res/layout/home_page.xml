@@ -13,7 +13,7 @@
     <ImageView
        style="@style/detail_image"
         android:layout_weight="7"
-        android:src="@drawable/img_5159"/>
+        android:src="@drawable/addis"/>
 
     <TextView
       style="@style/disc"

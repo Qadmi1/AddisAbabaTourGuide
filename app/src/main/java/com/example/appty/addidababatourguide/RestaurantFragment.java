@@ -26,7 +26,7 @@ public class RestaurantFragment extends Fragment {
         list.add(new Place(R.drawable.shiro, R.string.shiro, R.string.shiro_desc));
         list.add(new Place(R.drawable.chane_restaurant, R.string.chane, R.string.chane_desc));
         list.add(new Place(R.drawable.yod_restaurant, R.string.yod, R.string.yod_desc));
-        list.add(new Place(R.drawable.tewodros_square, R.string.brundo, R.string.brundo_desc));
+        list.add(new Place(R.drawable.brundo, R.string.brundo, R.string.brundo_desc));
 
         //Create an instance of our custom Adapter
         ListAdapter listAdapter = new ListAdapter(getActivity(), list);
