@@ -14,7 +14,8 @@ import java.util.ArrayList;
  * Created by appty on 30/12/17.
  */
 
-public class RestaurantFragment extends Fragment {
+public class HistoricSitesFragment extends Fragment {
+
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
@@ -22,11 +23,11 @@ public class RestaurantFragment extends Fragment {
 
         //Create a list of LandMarks
         ArrayList<Place> list = new ArrayList<>();
-        list.add(new Place(R.drawable.oda_restuarants, R.string.oda, R.string.oda_desc));
-        list.add(new Place(R.drawable.shiro, R.string.shiro, R.string.shiro_desc));
-        list.add(new Place(R.drawable.chane_restaurant, R.string.chane, R.string.chane_desc));
-        list.add(new Place(R.drawable.yod_restaurant, R.string.yod, R.string.yod_desc));
-        list.add(new Place(R.drawable.brundo, R.string.brundo, R.string.brundo_desc));
+        list.add(new Place(R.drawable.palace, R.string.palace, R.string.palace_desc));
+        list.add(new Place(R.drawable.trinity, R.string.trinity, R.string.trinity_desc));
+        list.add(new Place(R.drawable.lilibella, R.string.lalibela, R.string.lalibela_desc));
+        list.add(new Place(R.drawable.melka, R.string.melka, R.string.melka_desc));
+        list.add(new Place(R.drawable.medhane, R.string.medhane, R.string.medhane_desc));
 
         //Create an instance of our custom Adapter
         ListAdapter listAdapter = new ListAdapter(getActivity(), list);
@@ -38,8 +39,7 @@ public class RestaurantFragment extends Fragment {
         mainList.setAdapter(listAdapter);
 
         // Change the title in the ActionBar
-
-        getActivity().setTitle(R.string.restaurants);
+        getActivity().setTitle(R.string.historic);
 
         return itemView;
     }
