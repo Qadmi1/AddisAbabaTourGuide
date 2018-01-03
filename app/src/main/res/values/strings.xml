@@ -12,6 +12,8 @@
 
     <string name="historic">Historic Site</string>
 
+    <string name="religious">Religious Site</string>
+
     <!-- The list of LandMarks in the App -->
     <string name="menelik">The Mausoleum of Menelik II</string>
 
@@ -94,7 +96,7 @@
 
     <!-- The list of historic sites in the App -->
     <string name="palace">Menelik palace</string>
-    
+
     <string name="trinity">Holy Trinity Cathedral</string>
 
     <string name="lalibela">Lalibela</string>
@@ -127,7 +129,47 @@
 
     <string name="medhane_desc">Medhane Alem Cathedral, whose name means “Saviour of the World”, is
         an Ethiopian Orthodox Tewahedo cathedral in Bole Medhanealem, Addis Ababa, Ethiopia. It is
-        the second largest cathedral in the whole of Africa and the largest in Ethiopia.
+        the second largest cathedral in the whole of Africa and the largest in Ethiopia.</string>
 
-</string>
+    <!-- The list of Religious sites in the App -->
+    <string name="goerge">St. George\'s Cathedral</string>
+    
+    <string name="entoto">Entoto Maryam Church</string>
+
+    <string name="adadi">Adadi Mariam Church</string>
+    
+    <string name="raguel">St. Raguel Church </string>
+
+    <string name="anwar">Anwar Mosque</string>
+
+    <!-- The list of Religious description sites in the App -->
+    <string name="goerge_desc">Saint George\'s Cathedral is an Ethiopian Orthodox church in Addis
+        Ababa, Ethiopia. The cathedral is noted for its distinctive octagonal form. It is located
+        at the northern end of Churchill Road in the city.</string>
+
+    <string name="entoto_desc">The octagonal Entoto Maryam Church hosted Menelik’s coronation, but
+        sadly for a church of such historical significance, the only time you can catch a glimpse
+        of the interior is during Sunday Mass, and even then, casual visitors (as opposed to
+        genuine worshipers) are not welcome. Down the hill on the back side of the building are
+        the remains of Menelik's rather modest palace.</string>
+
+    <string name="adadi_desc">Adadi Mariam is a 13th century Lalibela type rock hewn church located
+        73km South of Addis Ababa on the Butajera road. It is surrounded with beautiful and enticing
+        hills. Also lies along this road and it is the only rock hewn church to exist as far south
+        as this region. The church is not as monolithic as the rock-hewn churches in Lalibela but it
+        has a lot of similarities with some of the rock churches in Lalibela and further north in
+        Tigray.</string>
+
+    <string name="raguel_desc">Often overlooked but one of the more interesting churches in
+        Ethiopia, The Church of St. Raguel (or Holy Raguel or Kiddus Raguel) in Entoto, a short
+        drive outside of Addis Ababa, is well worth making the time during your travel within
+        Ethiopia.</string>
+
+    <string name="anwar_desc">The Mosque\'s History, from the beginning to the year 1975.
+        The transformation and growth of the Masjid , achieved by the continuous support of the
+        muslims of Ethiopia, with the help of Allah. The Harari community members of Addis Ababa
+        played an important and significant role on this path. The book recognizes the Hararies
+        participation.</string>
+
+
 </resources>

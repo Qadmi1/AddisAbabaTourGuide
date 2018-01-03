@@ -37,8 +37,11 @@ public class PagerAdapter extends FragmentPagerAdapter {
             return new HistoricSitesFragment();
         }
 
+        else if (position ==4) {
+            return new ReligeiousSitesFragment();
+        }
         else
-        return new HomeFragment();
+            return new HomeFragment();
     }
 
     /**
@@ -46,7 +49,7 @@ public class PagerAdapter extends FragmentPagerAdapter {
      */
     @Override
     public int getCount() {
-        return 4;
+        return 5;
     }
 
     @Override
@@ -62,7 +65,10 @@ public class PagerAdapter extends FragmentPagerAdapter {
         {
             return mContext.getString(R.string.historic);
         }
-
+        else if (position ==4)
+        {
+            return mContext.getString(R.string.religious);
+        }
         else
             return mContext.getString(R.string.home);    }
 }
