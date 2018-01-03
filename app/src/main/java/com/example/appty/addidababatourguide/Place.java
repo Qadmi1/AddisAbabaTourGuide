@@ -6,25 +6,25 @@ package com.example.appty.addidababatourguide;
 
 
 public class Place {
-    private int mImageResource;
-    private int mTitle;
-    private int mDiscription;
+    private int imageResource;
+    private int title;
+    private int description;
 
-    public Place(int mImageResource, int mTitle, int mDiscription) {
-        this.mImageResource = mImageResource;
-        this.mTitle = mTitle;
-        this.mDiscription = mDiscription;
+    public Place(int ImageResource, int title, int description) {
+        this.imageResource = ImageResource;
+        this.title = title;
+        this.description = description;
     }
 
-    public int getmImageResource() {
-        return mImageResource;
+    public int getImageResource() {
+        return imageResource;
     }
 
-    public int getmTitle() {
-        return mTitle;
+    public int getTitle() {
+        return title;
     }
 
-    public int getmDiscription() {
-        return mDiscription;
+    public int getDescription() {
+        return description;
     }
 }

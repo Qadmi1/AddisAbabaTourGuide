@@ -40,13 +40,13 @@ public class ListAdapter extends ArrayAdapter<Place> {
         // Make sure the currentItem in the ListView is not null
         if (currentItem != null) {
             ImageView img = listItemView.findViewById(R.id.image);
-            img.setImageResource(currentItem.getmImageResource());
+            img.setImageResource(currentItem.getImageResource());
 
             TextView title = listItemView.findViewById(R.id.title);
-            title.setText(currentItem.getmTitle());
+            title.setText(currentItem.getTitle());
 
             TextView disc = listItemView.findViewById(R.id.disc);
-            disc.setText(currentItem.getmDiscription());
+            disc.setText(currentItem.getDescription());
 
         }
         return listItemView;
