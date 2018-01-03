@@ -22,11 +22,11 @@ public class ReligeiousSitesFragment extends Fragment {
 
         //Create a list of LandMarks
         ArrayList<Place> list = new ArrayList<>();
-        list.add(new Place(R.drawable.palace, R.string.goerge, R.string.goerge_desc));
-        list.add(new Place(R.drawable.trinity, R.string.entoto, R.string.entoto_desc));
-        list.add(new Place(R.drawable.lilibella, R.string.adadi, R.string.adadi_desc));
-        list.add(new Place(R.drawable.melka, R.string.raguel, R.string.raguel_desc));
-        list.add(new Place(R.drawable.medhane, R.string.anwar, R.string.anwar_desc));
+        list.add(new Place(R.drawable.goerge, R.string.goerge, R.string.goerge_desc));
+        list.add(new Place(R.drawable.entoto, R.string.entoto, R.string.entoto_desc));
+        list.add(new Place(R.drawable.adadi, R.string.adadi, R.string.adadi_desc));
+        list.add(new Place(R.drawable.raguel, R.string.raguel, R.string.raguel_desc));
+        list.add(new Place(R.drawable.anwar, R.string.anwar, R.string.anwar_desc));
 
         //Create an instance of our custom Adapter
         ListAdapter listAdapter = new ListAdapter(getActivity(), list);
